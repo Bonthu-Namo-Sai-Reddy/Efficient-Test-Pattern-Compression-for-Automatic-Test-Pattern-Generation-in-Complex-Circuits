@@ -1,0 +1,2 @@
+# Efficient-Test-Pattern-Compression-for-Automatic-Test-Pattern-Generation-in-Complex-Circuits
+Efficient-Test-Pattern-Compression: This repository provides a framework for compressing test patterns in ATPG for complex circuits. It reduces test data volume, improves testing speed, and ensures high fault coverage. Includes compression algorithms, decompression methods, and benchmark simulations. Ideal for VLSI testing enthusiasts.
