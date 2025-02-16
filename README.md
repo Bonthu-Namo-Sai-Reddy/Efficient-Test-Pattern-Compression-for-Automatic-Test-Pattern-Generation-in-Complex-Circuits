@@ -1,2 +1,2 @@
-# Efficient-Test-Pattern-Compression-for-Automatic-Test-Pattern-Generation-in-Complex-Circuits
-Efficient-Test-Pattern-Compression: This repository provides a framework for compressing test patterns in ATPG for complex circuits. It reduces test data volume, improves testing speed, and ensures high fault coverage. Includes compression algorithms, decompression methods, and benchmark simulations. Ideal for VLSI testing enthusiasts.
+# Hybrid-ATPG-Compression-A-Novel-Approach-for-Efficient-Test-Data-Reduction
+Developed a Hybrid ATPG Compression Model integrating Run-Length Encoding (RLE), Dictionary-Based Encoding, and X-Filling to optimize test data compression. Implemented using Verilog HDL and synthesized in Xilinx Vivado for FPGA deployment, achieving high compression ratios with minimal hardware overhead while maintaining fault coverage. Focused on improving test efficiency, reducing storage, and enhancing fault detection in VLSI circuits.
